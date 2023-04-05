@@ -114,7 +114,7 @@ CREATE TABLE songs
 
 
 INSERT INTO songs(cancoes, duracao, album_id) VALUES
- ("BREAK MY SOUL", 279, 1),
+("BREAK MY SOUL", 279, 1),
 ("VIRGO'S GROOVE", 369, 1),
 ("ALIEN SUPERSTAR", 116, 1),
 ("Don't Stop Me Now", 203, 2),
